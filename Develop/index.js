@@ -31,7 +31,7 @@ const inquirer = require('inquirer');
        case "Yes, add an intern.":
          console.log("You added an intern")
          // addIntern();
-         ask();
+        //  ask();
          break;
        case "No, I'm done adding employees.":
          console.log("You are done")
