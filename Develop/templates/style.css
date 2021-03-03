@@ -1,0 +1,19 @@
+.jumbotron {
+    background-color: #002e4d6c;
+}
+
+h1, h2, h3 {
+    color: white;
+}
+
+.manager {
+    background-color: rgb(32, 221, 64);
+}
+
+.engineer {
+    background-color: rgb(35, 73, 243);
+}
+
+.intern {
+    background-color: rgb(91, 238, 248);
+} 
